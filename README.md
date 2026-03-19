@@ -55,4 +55,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jaya27-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaya27-code/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Jaya27-code/LeetCode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
