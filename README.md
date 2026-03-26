@@ -64,6 +64,7 @@
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Jaya27-code/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0596-classes-with-at-least-5-students](https://github.com/Jaya27-code/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Jaya27-code/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Queue
 |  |
 | ------- |
