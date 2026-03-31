@@ -65,6 +65,7 @@
 | [0180-consecutive-numbers](https://github.com/Jaya27-code/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0596-classes-with-at-least-5-students](https://github.com/Jaya27-code/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Jaya27-code/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1075-project-employees-i](https://github.com/Jaya27-code/LeetCode/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Jaya27-code/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Queue
 |  |
