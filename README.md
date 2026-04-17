@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Jaya27-code/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Jaya27-code/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
