@@ -30,6 +30,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2942-find-words-containing-character](https://github.com/Jaya27-code/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +98,12 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
