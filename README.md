@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jaya27-code/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2678-number-of-senior-citizens](https://github.com/Jaya27-code/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/Jaya27-code/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jaya27-code/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
