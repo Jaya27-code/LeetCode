@@ -11,6 +11,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2678-number-of-senior-citizens](https://github.com/Jaya27-code/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Jaya27-code/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jaya27-code/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Jaya27-code/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jaya27-code/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jaya27-code/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Binary Search
 |  |
 | ------- |
