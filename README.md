@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jaya27-code/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
+| [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jaya27-code/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -21,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaya27-code/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Jaya27-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaya27-code/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jaya27-code/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jaya27-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaya27-code/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaya27-code/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Database
 |  |
@@ -99,10 +102,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
