@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
