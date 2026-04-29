@@ -33,6 +33,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaya27-code/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Jaya27-code/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Jaya27-code/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
