@@ -52,6 +52,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
+| [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
+| [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 ## Matrix
 |  |
 | ------- |
