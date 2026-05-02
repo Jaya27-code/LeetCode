@@ -62,6 +62,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jaya27-code/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Matrix
 |  |
 | ------- |
