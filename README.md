@@ -16,6 +16,7 @@
 | [2678-number-of-senior-citizens](https://github.com/Jaya27-code/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/Jaya27-code/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/Jaya27-code/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jaya27-code/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [2678-number-of-senior-citizens](https://github.com/Jaya27-code/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/Jaya27-code/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/Jaya27-code/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Jaya27-code/LeetCode/tree/master/3340-check-balanced-string) |
@@ -145,4 +147,17 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Jaya27-code/LeetCode/tree/master/0796-rotate-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
