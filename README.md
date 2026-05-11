@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Jaya27-code/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jaya27-code/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Jaya27-code/LeetCode/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Jaya27-code/LeetCode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaya27-code/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Jaya27-code/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jaya27-code/LeetCode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Jaya27-code/LeetCode/tree/master/0881-boats-to-save-people) |
