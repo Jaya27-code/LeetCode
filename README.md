@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 ## Backtracking
 |  |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaya27-code/LeetCode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jaya27-code/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## String Matching
 |  |
