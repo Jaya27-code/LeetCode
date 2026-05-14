@@ -20,6 +20,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jaya27-code/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/Jaya27-code/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/Jaya27-code/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Jaya27-code/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -38,6 +39,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Jaya27-code/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jaya27-code/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## String
