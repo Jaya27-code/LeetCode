@@ -67,6 +67,7 @@
 | [3110-score-of-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Jaya27-code/LeetCode/tree/master/3340-check-balanced-string) |
+| [3856-trim-trailing-vowels](https://github.com/Jaya27-code/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Dynamic Programming
 |  |
 | ------- |
