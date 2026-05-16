@@ -161,6 +161,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Jaya27-code/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Stack
 |  |
 | ------- |
