@@ -67,6 +67,7 @@
 | [3110-score-of-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Jaya27-code/LeetCode/tree/master/3340-check-balanced-string) |
+| [3794-reverse-string-prefix](https://github.com/Jaya27-code/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/Jaya27-code/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaya27-code/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0881-boats-to-save-people](https://github.com/Jaya27-code/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/Jaya27-code/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Database
 |  |
 | ------- |
