@@ -18,6 +18,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Jaya27-code/LeetCode/tree/master/1816-truncate-sentence) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jaya27-code/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaya27-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -61,6 +62,7 @@
 | [0796-rotate-string](https://github.com/Jaya27-code/LeetCode/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Jaya27-code/LeetCode/tree/master/1816-truncate-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/Jaya27-code/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/Jaya27-code/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/Jaya27-code/LeetCode/tree/master/2942-find-words-containing-character) |
