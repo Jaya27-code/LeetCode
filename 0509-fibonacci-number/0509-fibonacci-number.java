@@ -6,7 +6,7 @@ class Solution {
 
     public int fib(int n) {
 
-        // Initialize or resize dp
+       
         if (dp == null || dp.length <= n) {
             dp = new int[n + 1];
             Arrays.fill(dp, -1);
