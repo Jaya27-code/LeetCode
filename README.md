@@ -79,6 +79,7 @@
 | [0055-jump-game](https://github.com/Jaya27-code/LeetCode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 ## Backtracking
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jaya27-code/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Matrix
@@ -110,6 +112,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jaya27-code/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Jaya27-code/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
