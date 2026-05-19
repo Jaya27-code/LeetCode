@@ -83,6 +83,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jaya27-code/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Matrix
 |  |
@@ -215,4 +217,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
