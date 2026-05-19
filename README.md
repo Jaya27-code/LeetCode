@@ -78,6 +78,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Jaya27-code/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Jaya27-code/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -218,4 +220,8 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
