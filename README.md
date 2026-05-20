@@ -54,6 +54,7 @@
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Jaya27-code/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jaya27-code/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Jaya27-code/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Jaya27-code/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Jaya27-code/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Jaya27-code/LeetCode/tree/master/0290-word-pattern) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Jaya27-code/LeetCode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -180,6 +182,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jaya27-code/LeetCode/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Jaya27-code/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
@@ -190,6 +193,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jaya27-code/LeetCode/tree/master/0067-add-binary) |
 | [3174-clear-digits](https://github.com/Jaya27-code/LeetCode/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
