@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Jaya27-code/LeetCode/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/Jaya27-code/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jaya27-code/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Jaya27-code/LeetCode/tree/master/0605-can-place-flowers) |
@@ -85,6 +86,7 @@
 | [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Jaya27-code/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Jaya27-code/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
