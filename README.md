@@ -28,6 +28,7 @@
 | [2784-check-if-array-is-good](https://github.com/Jaya27-code/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Jaya27-code/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jaya27-code/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jaya27-code/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2942-find-words-containing-character](https://github.com/Jaya27-code/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Jaya27-code/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jaya27-code/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -88,6 +89,7 @@
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jaya27-code/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
 | ------- |
