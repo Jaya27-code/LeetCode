@@ -68,6 +68,7 @@
 | [0541-reverse-string-ii](https://github.com/Jaya27-code/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jaya27-code/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Jaya27-code/LeetCode/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/Jaya27-code/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Jaya27-code/LeetCode/tree/master/1816-truncate-sentence) |
@@ -93,6 +94,7 @@
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Jaya27-code/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jaya27-code/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
