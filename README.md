@@ -18,6 +18,7 @@
 | [0605-can-place-flowers](https://github.com/Jaya27-code/LeetCode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Jaya27-code/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Jaya27-code/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Jaya27-code/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jaya27-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -242,4 +243,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jaya27-code/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
