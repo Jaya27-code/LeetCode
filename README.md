@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Jaya27-code/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jaya27-code/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jaya27-code/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Jaya27-code/LeetCode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Jaya27-code/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -49,6 +50,7 @@
 | [0290-word-pattern](https://github.com/Jaya27-code/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaya27-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jaya27-code/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jaya27-code/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Jaya27-code/LeetCode/tree/master/2540-minimum-common-value) |
@@ -187,6 +189,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jaya27-code/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Jaya27-code/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jaya27-code/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jaya27-code/LeetCode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Jaya27-code/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaya27-code/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
