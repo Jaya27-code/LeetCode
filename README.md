@@ -96,6 +96,7 @@
 | [0022-generate-parentheses](https://github.com/Jaya27-code/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Jaya27-code/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Jaya27-code/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Jaya27-code/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Jaya27-code/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Jaya27-code/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -115,6 +116,7 @@
 | [0048-rotate-image](https://github.com/Jaya27-code/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Jaya27-code/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Jaya27-code/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Jaya27-code/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jaya27-code/LeetCode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Jaya27-code/LeetCode/tree/master/0788-rotated-digits) |
@@ -252,6 +254,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jaya27-code/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Jaya27-code/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
